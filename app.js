@@ -5,5 +5,6 @@
 
 require('./lib/startup/validateDependencies')().then(() => {
   const server = require('./server')
+  console.log("Running, yay!")
   server.start()
 })
