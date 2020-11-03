@@ -7,7 +7,7 @@ const config = require('config')
 const models = require('../../models/index')
 const utils = require('../../lib/utils')
 
-// Ignore that it'll crash tests, just checking Checkmarx result.
+/* Ignore that it'll crash tests, just checking Checkmarx result. */
 const getRequestBody = () => JSON.stringify({});
 
 describe('/#/register', () => {
