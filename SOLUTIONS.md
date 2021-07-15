@@ -5,6 +5,7 @@ a hacking session of your own? Add it to this file and open a PR! The
 same goes for any scripts or automated tools you made for making Juice
 Shop easier to hack!
 
+
 > :godmode: **Everything** mentioned on this specific page is considered
 > to contain _spoilers for entire challenge solutions_ so the entries
 > themselves are not individually tagged! You might not want to view
